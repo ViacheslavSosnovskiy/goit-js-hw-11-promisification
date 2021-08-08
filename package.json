@@ -1,22 +1,22 @@
 {
-  "name": "goit-js-hw-10-food-service",
+  "name": "goit-js-hw-11",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ViacheslavSosnovskiy.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://ViacheslavSosnovskiy.github.io/goit-js-hw-11-promisification",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-promisification/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViacheslavSosnovskiy/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/ViacheslavSosnovskiy/goit-js-hw-11-promisification.git"
   },
   "keywords": [],
   "author": "Viacheslav Sosnovskiy <viacheslav.sosnovskiy@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ViacheslavSosnovskiy/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/ViacheslavSosnovskiy/goit-js-hw-11-promisification/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
